@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alice Valencia Maseko</h1>
-<h3 align="center">IT Graduate | Software, Systems & Cybersecurity</h3>
+<h3 align="center">IT Graduate | Python, Flask & MySQL Building secure systems & web applications Interested in Cybersecurity, Data & IT Support </h3>
 
 <p align="center">
 📍 Gauteng, South Africa <br>
@@ -10,11 +10,11 @@
 
 ## 👩🏽‍💻 Professional Profile
 
-Motivated IT graduate with practical experience in software development, database systems, and secure application configuration.  
+.I am a motivated IT graduate with hands-on academic and project experience in building and working with software systems, databases, and web applications.
 
-Strong foundation in backend systems, relational databases, troubleshooting, and information security principles.  
+I enjoy working with technology, solving practical problems, and continuously learning new tools and concepts. I am adaptable, detail-oriented, and comfortable working both independently and in a team environment.
 
-I am passionate about solving technical problems, improving system efficiency, and contributing to secure and reliable IT environments.
+I am currently seeking opportunities where i can grow, contribute,and gain real-world experiences in a professional IT environment.
 
 ---
 
@@ -55,8 +55,8 @@ I am passionate about solving technical problems, improving system efficiency, a
 - Secure session management
 - Environment-based configuration
 - Secure database connections
-- Basic cryptography implementation
-
+- Basic understanding of data protection principles
+  
 ### 🧰 Tools & Platforms
 - Git & GitHub
 - VS Code
@@ -82,12 +82,12 @@ https://github.com/vally941/salon-booking-system
 
 ---
 
-## 🌱 Professional Goals
+## 🌱 Professional Goal
 
-- Gain hands-on experience in real-world IT environments  
-- Grow within cybersecurity and secure systems design  
-- Contribute to scalable and reliable technology solutions  
-- Continuously expand technical and analytical skills  
+- To join an organization where I can apply my foundational IT knowledge, grow under mentorship, and contribute meaningfully while developing into a well-rounded IT professional.
+
+
+
 
 ---
 
